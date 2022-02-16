@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: 088cfdfd-d259-1b19-f8b2-6b29b42d1870
 title: Applying a Constructivist Approach
 uid: b251c87d-a710-0e6f-638a-bcfb30f5df88

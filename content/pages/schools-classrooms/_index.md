@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Schools & Classrooms
 uid: b5b223ff-b3c9-b571-177f-64855b572448
 ---

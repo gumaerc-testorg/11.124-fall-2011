@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Math & Science Education
+parent_type: CourseSection
 parent_uid: c64ec322-8836-44e1-a6ec-caa9263f7ec8
 title: 'Week #7'
 uid: 39e19bf4-9261-7fe4-f3fb-29e9f0918a86

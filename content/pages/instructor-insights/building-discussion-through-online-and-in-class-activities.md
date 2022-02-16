@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: 088cfdfd-d259-1b19-f8b2-6b29b42d1870
 title: Building Discussion Through Online and In-Class Activities
 uid: 2bddb4c1-767a-fcd3-7dc5-eb0585c90151

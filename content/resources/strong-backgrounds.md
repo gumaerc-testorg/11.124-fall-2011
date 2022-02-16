@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Teaching Students with Strong Science and Math Backgrounds
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Strong Backgrounds
 uid: 4c8b706d-fa89-d7c1-9a49-860dabfd622f

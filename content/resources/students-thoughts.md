@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Building Discussion Through Online and In-Class Activities
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Students Thoughts
 uid: 6e5b2714-c3e2-c355-bd28-cb2d101a7c3a

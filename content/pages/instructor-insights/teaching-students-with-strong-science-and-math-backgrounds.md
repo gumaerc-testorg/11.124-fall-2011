@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: 088cfdfd-d259-1b19-f8b2-6b29b42d1870
 title: Teaching Students with Strong Science and Math Backgrounds
 uid: 3705cb31-5077-f751-1389-fe2dda777fb5

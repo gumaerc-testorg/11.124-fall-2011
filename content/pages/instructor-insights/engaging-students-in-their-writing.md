@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: 088cfdfd-d259-1b19-f8b2-6b29b42d1870
 title: Engaging Students in Their Writing
 uid: 7a2eb894-7bfb-fbce-910f-c89930de8046

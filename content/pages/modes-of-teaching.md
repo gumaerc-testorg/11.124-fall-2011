@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Modes of Teaching
 uid: fe849a17-d4db-501a-ffdc-dc517b8137c0
 ---

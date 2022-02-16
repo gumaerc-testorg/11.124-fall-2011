@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Schools & Classrooms
+parent_type: CourseSection
 parent_uid: b5b223ff-b3c9-b571-177f-64855b572448
 title: 'Week #3'
 uid: 67ae5a3e-6ce8-20e4-f998-f7f1244de734

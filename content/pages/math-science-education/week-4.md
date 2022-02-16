@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Math & Science Education
+parent_type: CourseSection
 parent_uid: c64ec322-8836-44e1-a6ec-caa9263f7ec8
 title: 'Week #4'
 uid: 02b5388b-d455-4e19-a7a8-e9d4981db032

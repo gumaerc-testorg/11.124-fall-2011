@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: 088cfdfd-d259-1b19-f8b2-6b29b42d1870
 title: Guiding Students to See the Big Picture
 uid: 64cfd91b-9723-255c-97e4-da92a1e51d6c
