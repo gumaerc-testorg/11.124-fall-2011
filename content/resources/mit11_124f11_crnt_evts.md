@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week #5'
 parent_type: CourseSection
+parent_uid: 7ac2bee0-588e-8cbe-42de-bd0480708bed
 resourcetype: Document
 title: MIT11_124F11_Crnt_evts.pdf
 uid: b1429d4a-42bc-6d47-dbd5-63d91168fa88

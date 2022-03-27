@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week #3'
 parent_type: CourseSection
+parent_uid: 67ae5a3e-6ce8-20e4-f998-f7f1244de734
 resourcetype: Document
 title: MIT11_124F11_Brnstrm_Wk3.pdf
 uid: 5730348f-3d96-320c-e833-25fc9c7e1872

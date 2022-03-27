@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week #5'
 parent_type: CourseSection
+parent_uid: 7ac2bee0-588e-8cbe-42de-bd0480708bed
 resourcetype: Document
 title: MIT11_124F11_week5hndot.pdf
 uid: c172cd75-67ef-3ba7-b69b-348dd11fd7c5

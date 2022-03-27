@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week #7'
 parent_type: CourseSection
+parent_uid: 39e19bf4-9261-7fe4-f3fb-29e9f0918a86
 resourcetype: Document
 title: MIT11_124F11_mhgs_tps_hdt.pdf
 uid: 3d283d1f-82cd-794d-e064-b20a2dc70095

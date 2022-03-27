@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week #4'
 parent_type: CourseSection
+parent_uid: 02b5388b-d455-4e19-a7a8-e9d4981db032
 resourcetype: Document
 title: MIT11_124F11_sttrs_smry.pdf
 uid: c0526d5c-5a1a-b52f-d6e9-5ee25646969b

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: CourseSection
+parent_uid: 088cfdfd-d259-1b19-f8b2-6b29b42d1870
 resourcetype: Image
 title: croppedKlopfer-with-class.jpg
 uid: 8f4dfb83-716f-bc13-5217-c6c31e75ed46

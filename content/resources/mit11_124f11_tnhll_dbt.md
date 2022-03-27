@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week #9'
 parent_type: CourseSection
+parent_uid: 4ab19fbb-1e96-5165-b342-075c5de540c6
 resourcetype: Document
 title: MIT11_124F11_TnHll_Dbt.pdf
 uid: 5e9bf5d6-9bcf-7aa9-1035-398dada80870

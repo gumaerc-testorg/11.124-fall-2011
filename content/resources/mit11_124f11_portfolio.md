@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Modes of Teaching
 parent_type: CourseSection
+parent_uid: fe849a17-d4db-501a-ffdc-dc517b8137c0
 resourcetype: Document
 title: MIT11_124F11_portfolio.pdf
 uid: 7d1069b4-64c1-1aae-317d-d38eb77286f3

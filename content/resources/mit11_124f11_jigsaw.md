@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week #3'
 parent_type: CourseSection
+parent_uid: 67ae5a3e-6ce8-20e4-f998-f7f1244de734
 resourcetype: Document
 title: MIT11_124F11_Jigsaw.pdf
 uid: 0107bb7c-d1e2-9baf-b334-f3769db77d8c

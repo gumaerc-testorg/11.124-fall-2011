@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week #8'
 parent_type: CourseSection
+parent_uid: dc30c26c-645c-e811-84ea-4300abda3428
 resourcetype: Document
 title: MIT11_124F11_tech_poster.pdf
 uid: cde51dcc-19a4-8556-a22d-b3d259a55ac5

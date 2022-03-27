@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Major Assignments
 parent_type: CourseSection
+parent_uid: ef6ab5ef-b820-01e3-e5d5-d32bac4f0fd1
 resourcetype: Document
 title: MIT11_124F11_MthGmsRbc.pdf
 uid: 52884a23-915b-a99b-5211-bf25a5aa5d11

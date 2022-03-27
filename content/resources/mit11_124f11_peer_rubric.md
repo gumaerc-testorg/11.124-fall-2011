@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week #10'
 parent_type: CourseSection
+parent_uid: dc5fb216-cacf-4243-5757-a3a93e4bf07a
 resourcetype: Document
 title: MIT11_124F11_Peer_rubric.pdf
 uid: c3b510ee-ce02-9d7e-3bd8-d87271a19ab0

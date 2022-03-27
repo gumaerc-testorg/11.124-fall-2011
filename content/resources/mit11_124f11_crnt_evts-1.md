@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Ongoing Assignments
 parent_type: CourseSection
+parent_uid: 8c85940c-397a-0cb4-899d-29dd46d0e82c
 resourcetype: Document
 title: MIT11_124F11_Crnt_evts.pdf
 uid: f7ca8dc8-2e3f-3045-44a1-cc372afc7191

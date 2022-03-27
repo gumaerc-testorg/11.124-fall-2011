@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Math & Science Education
 parent_type: CourseSection
+parent_uid: c64ec322-8836-44e1-a6ec-caa9263f7ec8
 resourcetype: Document
 title: Straw Towers Presentation
 uid: ce276e66-6105-0bc2-76a2-c4264866d8fa

@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Major Assignments
 parent_type: CourseSection
+parent_uid: ef6ab5ef-b820-01e3-e5d5-d32bac4f0fd1
 resourcetype: Image
 title: straw-towers_results.jpg
 uid: 5ccaf6fd-691f-0920-978f-5235bf026010

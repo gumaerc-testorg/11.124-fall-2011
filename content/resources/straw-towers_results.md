@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Week #4'
 parent_type: CourseSection
+parent_uid: 02b5388b-d455-4e19-a7a8-e9d4981db032
 resourcetype: Image
 title: straw-towers_results.jpg
 uid: 3638d275-a935-96a6-c6bc-73f0f80050aa

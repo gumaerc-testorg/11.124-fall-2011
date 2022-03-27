@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week #5'
 parent_type: CourseSection
+parent_uid: 7ac2bee0-588e-8cbe-42de-bd0480708bed
 resourcetype: Document
 title: MIT11_124F11_guide_week5.pdf
 uid: d277fea3-0d8d-e1e1-15bf-da2156290799

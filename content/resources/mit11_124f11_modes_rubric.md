@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Modes of Teaching
 parent_type: CourseSection
+parent_uid: fe849a17-d4db-501a-ffdc-dc517b8137c0
 resourcetype: Document
 title: MIT11_124F11_modes_rubric.pdf
 uid: 52aaa339-9223-aa11-eab8-4312e2ac8237

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week #7'
 parent_type: CourseSection
+parent_uid: 39e19bf4-9261-7fe4-f3fb-29e9f0918a86
 resourcetype: Document
 title: MIT11_124F11_nim_handout.pdf
 uid: 242fc93d-62b2-d2be-bed5-dc3acd29a8e3

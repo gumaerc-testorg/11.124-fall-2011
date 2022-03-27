@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Ongoing Assignments
 parent_type: CourseSection
+parent_uid: 8c85940c-397a-0cb4-899d-29dd46d0e82c
 resourcetype: Document
 title: MIT11_124F11_chaprdg.pdf
 uid: 1a1d94ad-c888-cdd4-c19c-07d897e2e45c

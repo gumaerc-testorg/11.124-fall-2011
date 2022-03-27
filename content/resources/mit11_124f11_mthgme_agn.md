@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week #7'
 parent_type: CourseSection
+parent_uid: 39e19bf4-9261-7fe4-f3fb-29e9f0918a86
 resourcetype: Document
 title: MIT11_124F11_mthgme_agn.pdf
 uid: 6b811cf5-5c46-bcb6-138e-150ccad5377c
