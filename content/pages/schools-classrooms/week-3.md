@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides information about the topics covered in the third
+  week, including education reform. '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Schools & Classrooms
@@ -22,9 +24,9 @@ Activities
 ----------
 
 *   How does reform address (or fail to address) the problems in education?
-*   Learning Environments Jigsaw ([PDF]({{< baseurl >}}/resources/mit11_124f11_jigsaw))
+*   Learning Environments Jigsaw ({{% resource_link 0107bb7c-d1e2-9baf-b334-f3769db77d8c "PDF" %}})
 *   What are the major problems in education? Brainstorming
-*   Result of brainstorm: list of major problems ([PDF]({{< baseurl >}}/resources/mit11_124f11_brnstrm_wk3))
+*   Result of brainstorm: list of major problems ({{% resource_link 5730348f-3d96-320c-e833-25fc9c7e1872 "PDF" %}})
 
 Readings
 --------

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Building Discussion Through Online and In-Class Activities
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 In this video, two students share their thoughts on the online component of the course's current events and chapter readings assignments.
+
+
+

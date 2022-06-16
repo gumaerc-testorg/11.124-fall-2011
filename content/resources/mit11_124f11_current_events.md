@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/ee4ac9854592283d27aef993818f89cc_MIT11_124F11_current_events.pdf
+file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/ee4ac9854592283d27aef993818f89cc_MIT11_124F11_current_events.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

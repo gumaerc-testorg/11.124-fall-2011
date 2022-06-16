@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides information on the fourth unit of the course:
+  modes of teaching.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Modes of Teaching
@@ -20,7 +22,7 @@ Week #11
     *   Group 2: Probability lecture
     *   Group 3: Probability hands-on
     *   Group 4: Probability lecture
-    *   Modes of teaching rubric ([PDF]({{< baseurl >}}/resources/mit11_124f11_modes_rubric))
+    *   Modes of teaching rubric ({{% resource_link 52aaa339-9223-aa11-eab8-4312e2ac8237 "PDF" %}})
 
 Week #12
 --------
@@ -61,4 +63,4 @@ Week #15
 Assignment
 ----------
 
-*   Portfolio and final paper (Due Week #15) ([PDF]({{< baseurl >}}/resources/mit11_124f11_portfolio))
+*   Portfolio and final paper (Due Week #15) ({{% resource_link 7d1069b4-64c1-1aae-317d-d38eb77286f3 "PDF" %}})

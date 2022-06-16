@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Building Discussion Through Online and In-Class Activities
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 In this video, Professor Eric Klopfer discusses the current events assignment from his MIT class, _11.124 Introduction to Education_ . He focuses on why he introduced the assignment and how the online and in-class components complemented each other.
+
+
+

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This page contains information about how course instructors built discussion
+  through online and in-class activities in the class 11.124: Introduction to Education:
+  Looking Forward and Looking Back on Education.'
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -17,7 +20,7 @@ For this class, we created two recurring assignments that integrated online and 
 The Current Events Assignment
 -----------------------------
 
-For the current events assignment ([PDF]({{< baseurl >}}/resources/mit11_124f11_crnt_evts-1)), one group of 2-3 students presented a current events article each week. At the beginning of each week, the presenting group selected an article, posted it online, and posed a few related questions to the rest of the class through a Moodle forum. All students then discussed the questions online. Subsequently, the student presenters built upon the online discussion by moderating a discussion or running an activity in class. The in-class component took roughly 30 minutes per week, or about one-ninth of class time.
+For the current events assignment ({{% resource_link f7ca8dc8-2e3f-3045-44a1-cc372afc7191 "PDF" %}}), one group of 2-3 students presented a current events article each week. At the beginning of each week, the presenting group selected an article, posted it online, and posed a few related questions to the rest of the class through a Moodle forum. All students then discussed the questions online. Subsequently, the student presenters built upon the online discussion by moderating a discussion or running an activity in class. The in-class component took roughly 30 minutes per week, or about one-ninth of class time.
 
 {{< quote "Students investigate current events, choose things that are important and meaningful to them, and bring it into the classroom for discussion." "– Prof. Klopfer" >}}
 
@@ -28,7 +31,7 @@ In this video, Professor Eric Klopfer discusses the current events assignment fr
 The Chapter Readings Assignment
 -------------------------------
 
-Similar to the current events assignment, the chapter readings assignment ([PDF]({{< baseurl >}}/resources/mit11_124f11_chaprdg)) required groups of 2-3 students to each read one chapter of a selected book and post a summary to a [Moodle wiki](https://moodle.org/). Other students were then expected to read the chapter summary and engage in a conversation around it. In the subsequent class, the student presenters facilitated a discussion that built upon the online conversation. The groups of 2-3 students cycled through so that every student had the opportunity to summarize a chapter and jointly lead an in-class discussion. Over the course of the semester, an online summary of the whole book was built chapter-by-chapter on the Wiki. We did not require that students read the whole book; however, the students did need to read the summary for a sense of the book’s important issues so they could engage in conversations about the book’s themes. As with the current events assignment, the in-class component took roughly 30 minutes per week, or about one-ninth of class time.
+Similar to the current events assignment, the chapter readings assignment ({{% resource_link 1a1d94ad-c888-cdd4-c19c-07d897e2e45c "PDF" %}}) required groups of 2-3 students to each read one chapter of a selected book and post a summary to a [Moodle wiki](https://moodle.org/). Other students were then expected to read the chapter summary and engage in a conversation around it. In the subsequent class, the student presenters facilitated a discussion that built upon the online conversation. The groups of 2-3 students cycled through so that every student had the opportunity to summarize a chapter and jointly lead an in-class discussion. Over the course of the semester, an online summary of the whole book was built chapter-by-chapter on the Wiki. We did not require that students read the whole book; however, the students did need to read the summary for a sense of the book’s important issues so they could engage in conversations about the book’s themes. As with the current events assignment, the in-class component took roughly 30 minutes per week, or about one-ninth of class time.
 
 Each year when I choose the books for the chapter readings, I like to have one that brings in a historical context and one that brings in a current context. It’s a matter of thinking about things that are timely. I like to vary the books every few years, so I may switch to a new book after I’ve heard different students’ perspectives on a book’s themes for a couple years.
 

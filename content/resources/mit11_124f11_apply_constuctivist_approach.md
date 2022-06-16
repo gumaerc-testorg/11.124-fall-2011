@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/b8c5e71bd4c9f4b2055bb86f20a22e6e_MIT11_124F11_apply_constuctivist_approach.pdf
+file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/b8c5e71bd4c9f4b2055bb86f20a22e6e_MIT11_124F11_apply_constuctivist_approach.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

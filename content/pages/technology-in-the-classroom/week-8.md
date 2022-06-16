@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about the eighth week of the course,
+  including constructivist/constructionist technologies, and technology and learning.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Technology in the Classroom
@@ -45,6 +47,6 @@ Assignments
     1.  Ability to integrate your experiences with educational theory and research.
     2.  Evidence to support your perspective on technology-centered environments.
     3.  Coherence and consistency writing.
-*   Technology in Education Poster (Due Week #9) ([PDF]({{< baseurl >}}/resources/mit11_124f11_tech_poster))
+*   Technology in Education Poster (Due Week #9) ({{% resource_link cde51dcc-19a4-8556-a22d-b3d259a55ac5 "PDF" %}})
 *   Blog focus-Student observation (Due Week #9)
     *   Based on classroom observations. Focus on one or two students. What do you think they are learning in the class? How do you figure this out? How does the teacher appear to be assessing what and how the students are learning?

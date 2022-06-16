@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about the ninth week of the course,
+  including modes of teaching, and technology in the classroom.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Technology in the Classroom
@@ -14,7 +16,7 @@ Topics
 
 *   Introduction to modes of teaching
 *   Technology poster presentations
-*   Town Hall debate preparation ([PDF]({{< baseurl >}}/resources/mit11_124f11_tnhll_dbt))
+*   Town Hall debate preparation ({{% resource_link 5e9bf5d6-9bcf-7aa9-1035-398dada80870 "PDF" %}})
 *   Town Hall debate
 
 Readings
