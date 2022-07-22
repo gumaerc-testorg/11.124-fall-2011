@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  the MIT/Wellesley Scheller Teacher Education Program, textbooks, course rationale
+  and overview, and assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2bd32e1f-87e6-d821-c3b4-c67fe3f23365
 ---

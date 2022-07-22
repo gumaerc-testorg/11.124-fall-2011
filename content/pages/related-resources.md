@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides links to related resources on education and current
+  events.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: f4c97405-3c54-958b-6e03-826138910e49
 ---

@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section provides information about the topics covered in the second
+  week, including what schools look like, and an introduction to ongoing assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Schools & Classrooms
+parent_type: CourseSection
 parent_uid: b5b223ff-b3c9-b571-177f-64855b572448
 title: 'Week #2'
 uid: ccea0fc0-7b5c-742f-031d-67dca9c56d57

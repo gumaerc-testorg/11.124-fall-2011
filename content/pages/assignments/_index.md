@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the ongoing and major assignments
+  for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 2fe122a1-daea-8d52-f0b9-dc652fedc2f9
 ---
@@ -8,6 +13,6 @@ Students gain practical experience through weekly visits to schools, classroom d
 
 Throughout the semester students were expected to complete two types of assignments: those that are ongoing, and others that are considered major assignments.
 
-[Ongoing Assignments]({{< baseurl >}}/pages/assignments/ongoing-assignments)
+{{% resource_link 8c85940c-397a-0cb4-899d-29dd46d0e82c "Ongoing Assignments" %}}
 
-[Major Assignments]({{< baseurl >}}/pages/assignments/major-assignments)
+{{% resource_link ef6ab5ef-b820-01e3-e5d5-d32bac4f0fd1 "Major Assignments" %}}

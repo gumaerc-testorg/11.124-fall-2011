@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains information about the sixth week of the course,
+  including physics.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Math & Science Education
+parent_type: CourseSection
 parent_uid: c64ec322-8836-44e1-a6ec-caa9263f7ec8
 title: 'Week #6'
 uid: 1e205692-757d-064e-0a92-6b80e1db144f

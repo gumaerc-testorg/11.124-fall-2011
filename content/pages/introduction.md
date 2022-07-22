@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides an introduction to the course and information on
+  curriculum activities, other activities, and course texts.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Introduction
 uid: 44d2bec9-c5bc-3937-7585-f099d5bd71c7
 ---

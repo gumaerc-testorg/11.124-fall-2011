@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: 'This page describes strategies used to engage students in their writing
+  in the class 11.124: Introduction to Education: Looking Forward and Looking Back
+  on Education.'
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: 088cfdfd-d259-1b19-f8b2-6b29b42d1870
 title: Engaging Students in Their Writing
 uid: 7a2eb894-7bfb-fbce-910f-c89930de8046
@@ -16,7 +22,7 @@ Since this course was a Communication Intensive (CI-H) class at MIT, the student
 Construction of Writing Prompts that Engage Students
 ----------------------------------------------------
 
-We tried to construct [writing prompts]({{< baseurl >}}/pages/assignments/major-assignments) that the students could really engage with. We wanted students to take a stand on some issue, form an argument, and incorporate unique evidence to support that argument. We encouraged students to weave in their own experiences and to share unique insights they'd gained throughout their lives.
+We tried to construct {{% resource_link ef6ab5ef-b820-01e3-e5d5-d32bac4f0fd1 "writing prompts" %}} that the students could really engage with. We wanted students to take a stand on some issue, form an argument, and incorporate unique evidence to support that argument. We encouraged students to weave in their own experiences and to share unique insights they'd gained throughout their lives.
 
 Use of Peer Review
 ------------------

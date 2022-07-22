@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: This page contains thoughts from Prof. Klopfer about the advantages and
+  challenges of teaching an education course for students with strong backgrounds
+  in math and science.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: 088cfdfd-d259-1b19-f8b2-6b29b42d1870
 title: Teaching Students with Strong Science and Math Backgrounds
 uid: 3705cb31-5077-f751-1389-fe2dda777fb5
@@ -21,7 +27,7 @@ MIT students typically have very strong backgrounds in science and math, and stu
 Discussing Challenges and Advantages in Class
 ---------------------------------------------
 
-During the first week of class, I explicitly talks with my students about some of the unusual challenges that they, as MIT students, face in this course. As discussed in the [Course Overview and Rationale]({{< baseurl >}}/pages/introduction), the key challenges the class discusses are the following:
+During the first week of class, I explicitly talks with my students about some of the unusual challenges that they, as MIT students, face in this course. As discussed in the {{% resource_link 44d2bec9-c5bc-3937-7585-f099d5bd71c7 "Course Overview and Rationale" %}}, the key challenges the class discusses are the following:
 
 *   Time in Student Schedules: Students do not major in education, but add these on as additional courses.
 *   Learning Styles of MIT Students: Most MIT students have had math and science come to them easily, have learned well from lectures, and succeeded on multiple choice tests.

@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Building Discussion Through Online and In-Class Activities
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Students Thoughts
 uid: 6e5b2714-c3e2-c355-bd28-cb2d101a7c3a
 video_files:
@@ -15,3 +26,4 @@ video_metadata:
 ---
 
 In this video, two students share their thoughts on the online component of the course's current events and chapter readings assignments.
+
