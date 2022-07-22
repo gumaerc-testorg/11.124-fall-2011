@@ -5,6 +5,7 @@ file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Ongoing Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT11_124F11_clasobsrvtn.pdf
 uid: afd602ef-b281-1f88-4d7a-c5e486021193
 ---
 This resource contains information related to classroom observations.
-

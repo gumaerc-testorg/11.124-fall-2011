@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -25,6 +26,4 @@ video_metadata:
 ---
 
 In this video, Professor Eric Klopfer expands on his use of the constructivist approach in teaching the MIT course _11.124 Introduction to Education: Looking Forward and Looking Back on Education_.
-
-
 

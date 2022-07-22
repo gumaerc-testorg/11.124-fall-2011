@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Eric Klopfer and Wendy Huang.
   image-alt: A table with three columns is written on the chalkboard.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Week #4'
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: straw-towers_results.jpg
 uid: 3638d275-a935-96a6-c6bc-73f0f80050aa
 ---
 The results of the Straw Towers activity are written on the board. Image courtesy of Eric Klopfer and Wendy Huang.
-
