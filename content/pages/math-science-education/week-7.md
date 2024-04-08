@@ -23,8 +23,8 @@ Readings
 --------
 
 *   Reading guidelines for math education games. ({{% resource_link 4ce41579-d608-4335-ac71-8445b3814b6f "PDF" %}})
-*   Hildebrandt, Carolyn. "[Developing Mathematical Understanding Through Invented Games](http://www.highbeam.com/doc/1G1-53260201.html)." _Teaching Children Mathematics_ 5, no. 3 (1998): 191.
-*   Lach, Tisa M., and Lynae E. Sakshaug. "[Let's Do Math: Wanna Play?](http://www.nctm.org/publications/article.aspx?id=20459)" _Mathematics Teaching in the Middle School_ 11, no. 4 (2005): 172.
+*   Hildebrandt, Carolyn. "{{% resource_link "0096139b-6cb6-4403-a6be-97c67f9ba85f" "Developing Mathematical Understanding Through Invented Games" %}}." _Teaching Children Mathematics_ 5, no. 3 (1998): 191.
+*   Lach, Tisa M., and Lynae E. Sakshaug. "{{% resource_link "7c9a616b-48c9-4514-9101-26c0a83e5adf" "Let's Do Math: Wanna Play?" %}}" _Mathematics Teaching in the Middle School_ 11, no. 4 (2005): 172.
 *   \[Tinkering\] = Chapter 2.
 
 Assignments
@@ -38,4 +38,4 @@ Resources
 ---------
 
 *   Nim games student worksheet ({{% resource_link 242fc93d-62b2-d2be-bed5-dc3acd29a8e3 "PDF" %}})
-*   [Nim games lesson plan](http://illuminations.nctm.org/LessonDetail.aspx?ID=L695)
+*   {{% resource_link "7a68f3a5-3c9b-42c2-98ac-f8c21581d742" "Nim games lesson plan" %}}

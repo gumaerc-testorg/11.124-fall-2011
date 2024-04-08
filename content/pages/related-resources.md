@@ -11,14 +11,14 @@ uid: f4c97405-3c54-958b-6e03-826138910e49
 Suggested Websites for Current Events
 -------------------------------------
 
-[Public Education Network Weekly Newsblast](http://www.linkedin.com/groups/Public-Education-Network-Weekly-NewsBlast-4274443.S.163809498)
+{{% resource_link "975b83c9-cc9f-4b1f-ad1d-679f881fc476" "Public Education Network Weekly Newsblast" %}}
 
-Education section of [_The New York Times_](http://www.nytimes.com/pages/education/)
+Education section of {{% resource_link "f1f06083-7076-4d6d-bfe6-64396719ab6a" "_The New York Times_" %}}
 
-Education section of [_The Boston Globe_](http://www.boston.com/news/education/)
+Education section of {{% resource_link "d7fdecdf-200e-4ba3-8c8d-7bb90754ebe2" "_The Boston Globe_" %}}
 
-[_American Educator_](http://www.aft.org/newspubs/periodicals/ae/)
+{{% resource_link "0cfb9ddf-0143-491a-a131-ab7cb697a427" "_American Educator_" %}}
 
-[_Education Week_](http://www.edweek.org/ew/index.html)
+{{% resource_link "9c957471-17d0-4bc4-923e-84c7788fae15" "_Education Week_" %}}
 
-[_Educational Leadership_](http://www.ascd.org/publications/educational-leadership/current-issue.aspx)
+{{% resource_link "eddfdcb2-f6fe-417e-b21e-01ff011dcb0c" "_Educational Leadership_" %}}
