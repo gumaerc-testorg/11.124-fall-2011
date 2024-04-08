@@ -21,8 +21,8 @@ Readings
 --------
 
 *   Suggested questions to guide reading ({{% resource_link d277fea3-0d8d-e1e1-15bf-da2156290799 "PDF" %}})
-*   \[Learn\] = [Mathematics section](http://www.nap.edu/openbook.php?record_id=9853&page=164).
-*   Garfunkel, Sol, and David Mumford. "[How to Fix our Math Education](http://www.nytimes.com/2011/08/25/opinion/how-to-fix-our-math-education.html?_r=1)," _The New York Times_, August 24, 2011.
+*   \[Learn\] = {{% resource_link "681f273d-a9fe-47d0-b41b-fbef134845ba" "Mathematics section" %}}.
+*   Garfunkel, Sol, and David Mumford. "{{% resource_link "73e35d97-882d-454a-b6cf-2db0b98527d3" "How to Fix our Math Education" %}}," _The New York Times_, August 24, 2011.
 *   \[Tinkering\] = Chapter 1.
 *   Stein, Mary Kay, Margaret Schwan Smith, et al. Excerpts in _Implementing Standards-Based Mathematics Instruction: A Casebook for Professional Development_. Teachers College Press, 2009. ISBN: 9780807749579.
 
