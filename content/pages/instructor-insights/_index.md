@@ -13,7 +13,7 @@ uid: 088cfdfd-d259-1b19-f8b2-6b29b42d1870
 
 This page focuses on the course 11.124 *Introduction to Education: Looking Forward and Looking Back on Education* as it was taught in Fall 2011 by Professor Erik Klopfer. Most content on this page also applies to the course [11.125 *Introduction to Education: Understanding and Evaluating Education*](/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009).
 
-This course is an introductory course on teaching and learning science and mathematics in a variety of K-12 settings. Topics include education and media, education reform, the history of education, simulations, games, and the digital divide. This course is required for the [Scheller Teacher Education Program (STEP)](https://education.mit.edu/) at MIT, through which students can earn a teaching license.
+This course is an introductory course on teaching and learning science and mathematics in a variety of K-12 settings. Topics include education and media, education reform, the history of education, simulations, games, and the digital divide. This course is required for the {{% resource_link "267e5f93-3860-4005-8ac2-a4115789939e" "Scheller Teacher Education Program (STEP)" %}} at MIT, through which students can earn a teaching license.
 
 ## Course Outcomes
 
@@ -32,11 +32,11 @@ Courses at MIT:
 - 11.127J *Computer Games and Simulations for Investigation and Education*
 - Educational Theory and Practice sequence ([11.129](/courses/11-129-educational-theory-and-practice-i-fall-2011), 11.130, [11.131](/courses/11-131-educational-theory-and-practice-iii-spring-2012))
 
-{{< div-with-class "reveal1">}}
+{{< div-with-class "reveal1" >}}
 
 › Expand/Collapse
 
-{{< /div-with-class >}}{{< div-with-class "toggle1">}}
+{{< /div-with-class >}}{{< div-with-class "toggle1" >}}
 
 Professional possibilities:
 
@@ -52,11 +52,11 @@ Professional possibilities:
 
 In the following pages, Professor Eric Klopfer discusses specific aspects of his experience as the lead course instructor.
 
-- {{% resource_link b251c87d-a710-0e6f-638a-bcfb30f5df88 "Applying a constructivist approach" %}}
-- {{% resource_link 2bddb4c1-767a-fcd3-7dc5-eb0585c90151 "Building discussion through online and in-class activities" %}}
-- {{% resource_link 64cfd91b-9723-255c-97e4-da92a1e51d6c "Guiding students to see the big picture" %}}
-- {{% resource_link 7a2eb894-7bfb-fbce-910f-c89930de8046 "Engaging students in their writing" %}}
-- {{% resource_link 3705cb31-5077-f751-1389-fe2dda777fb5 "Teaching students with strong science and math backgrounds" %}}
+- {{% resource_link "b251c87d-a710-0e6f-638a-bcfb30f5df88" "Applying a constructivist approach" %}}
+- {{% resource_link "2bddb4c1-767a-fcd3-7dc5-eb0585c90151" "Building discussion through online and in-class activities" %}}
+- {{% resource_link "64cfd91b-9723-255c-97e4-da92a1e51d6c" "Guiding students to see the big picture" %}}
+- {{% resource_link "7a2eb894-7bfb-fbce-910f-c89930de8046" "Engaging students in their writing" %}}
+- {{% resource_link "3705cb31-5077-f751-1389-fe2dda777fb5" "Teaching students with strong science and math backgrounds" %}}
 
 ## Curriculum Information
 
@@ -68,8 +68,8 @@ None
 
 - HASS-S ![](/images/educator/icon-question-hass-s.png)
 - CI-H ![](/images/educator/icon-question-cih.png)
-- [HASS Concentration](http://web.mit.edu/hassreq/concentrations.html): Education
-- [STEP Sequence](http://education.mit.edu/classes/overview)
+- {{% resource_link "ee81e89b-0e98-498d-8d5a-6f9a476509c3" "HASS Concentration" %}}: Education
+- {{% resource_link "4d1816ea-4af7-4138-bf42-a4dda7620061" "STEP Sequence" %}}
 
 ### Offered
 
@@ -98,7 +98,7 @@ Varies
 
 ### Enrollment Cap
 
-Student interest in the [Scheller Teacher Education Program (STEP)](https://education.mit.edu/), including 11.124, has grown significantly in the past decade alongside increasing interest in education and social issues among the overall MIT student population. For 11.124 in particular, enrollment has surged, with 60-70 students trying to enroll in the Fall 2012 offering. A decade earlier, the course instructors had to advertise extensively to gather a class of 20 students. The class is capped at 25 students due to CI-H limitations. Students are selected based on interest in education, interest in the full STEP program, and seniority.
+Student interest in the {{% resource_link "267e5f93-3860-4005-8ac2-a4115789939e" "Scheller Teacher Education Program (STEP)" %}}, including 11.124, has grown significantly in the past decade alongside increasing interest in education and social issues among the overall MIT student population. For 11.124 in particular, enrollment has surged, with 60-70 students trying to enroll in the Fall 2012 offering. A decade earlier, the course instructors had to advertise extensively to gather a class of 20 students. The class is capped at 25 students due to CI-H limitations. Students are selected based on interest in education, interest in the full STEP program, and seniority.
 
 ### Ideal Class Size
 
@@ -123,9 +123,9 @@ Distribution of class time:
 
 ### Out of Class
 
-- Three formal written assignments: {{% resource_link 02b5388b-d455-4e19-a7a8-e9d4981db032 "Straw Towers" %}}, \[Pulleys\]({{< baseurl >}}/resources/mit11\_124f11\_pullact), and {{% resource_link ef6ab5ef-b820-01e3-e5d5-d32bac4f0fd1 "Technology Centered Environments" %}}
-- {{% resource_link ef6ab5ef-b820-01e3-e5d5-d32bac4f0fd1 "Math games assignment" %}}
-- Three in-class presentations/discussions: \[Town Hall\]({{< baseurl >}}/resources/mit11\_124f11\_tnhll\_dbt-1), \[Ed Tech Poster\]({{< baseurl >}}/resources/mit11\_124f11\_tech\_poster-1), and {{% resource_link fe849a17-d4db-501a-ffdc-dc517b8137c0 "Modes of Teaching" %}} Mini-Lesson
+- Three formal written assignments: {{% resource_link "02b5388b-d455-4e19-a7a8-e9d4981db032" "Straw Towers" %}}, \[Pulleys\]({{< baseurl >}}/resources/mit11\_124f11\_pullact), and {{% resource_link "ef6ab5ef-b820-01e3-e5d5-d32bac4f0fd1" "Technology Centered Environments" %}}
+- {{% resource_link "ef6ab5ef-b820-01e3-e5d5-d32bac4f0fd1" "Math games assignment" %}}
+- Three in-class presentations/discussions: \[Town Hall\]({{< baseurl >}}/resources/mit11\_124f11\_tnhll\_dbt-1), \[Ed Tech Poster\]({{< baseurl >}}/resources/mit11\_124f11\_tech\_poster-1), and {{% resource_link "fe849a17-d4db-501a-ffdc-dc517b8137c0" "Modes of Teaching" %}} Mini-Lesson
 - \[Portfolio and final paper\]({{< baseurl >}}/resources/mit11\_124f11\_portfolio-1)
 - 18-22 hours of \[classroom observation\]({{< baseurl >}}/resources/mit11\_124f11\_clasobsrvtn)
 - \[Chapter reading assignment\]({{< baseurl >}}/resources/mit11\_124f11\_chaprdg), including weekly participation in online and in-class discussion, as well as leading the discussion one week
