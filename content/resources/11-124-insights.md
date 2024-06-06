@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/519a3fbf7c2fce30f7061d0194e9281e_11-124-insights.png
+file_size: 148865
 file_type: image/png
 image_metadata:
   caption: ''
