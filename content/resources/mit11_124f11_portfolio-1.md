@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to final portfolio.
 file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/75d8b1290014ae9c1b1c5856960ec6e3_MIT11_124F11_portfolio.pdf
+file_size: 193570
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

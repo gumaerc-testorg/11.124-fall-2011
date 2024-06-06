@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to pulleys.
 file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/bed82e3e1fd635d84254ca101cefcfe1_MIT11_124F11_PullAct.pdf
+file_size: 60731
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
