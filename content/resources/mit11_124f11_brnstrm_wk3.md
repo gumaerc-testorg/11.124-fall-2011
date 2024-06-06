@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information related to result of brainstorm:
   list of major problems.'
 file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/5730348f3d96320ce83325fc9c7e1872_MIT11_124F11_Brnstrm_Wk3.pdf
+file_size: 52765
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
