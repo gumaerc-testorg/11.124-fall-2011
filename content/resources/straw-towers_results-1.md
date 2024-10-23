@@ -2,7 +2,7 @@
 content_type: resource
 description: The results of the Straw Towers activity are written on the board. Image
   courtesy of Eric Klopfer and Wendy Huang.
-file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/5ccaf6fd691f0920978f5235bf026010_straw-towers_results.jpg
+file: /ol-ocw-studio-app/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/5ccaf6fd691f0920978f5235bf026010_straw-towers_results.jpg
 file_size: 74084
 file_type: image/jpeg
 image_metadata:

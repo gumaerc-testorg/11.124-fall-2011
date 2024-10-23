@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/6f486a14898b229752ae720fe2befb0c_MIT11_124F11_teaching_students.pdf
+file: /ol-ocw-studio-app/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/6f486a14898b229752ae720fe2befb0c_MIT11_124F11_teaching_students.pdf
 file_size: 67054
 file_type: application/pdf
 learning_resource_types: []
