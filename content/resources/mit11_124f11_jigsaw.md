@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to learning environments jigsaw.
-file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/0107bb7cd1e29bafb334f3769db77d8c_MIT11_124F11_Jigsaw.pdf
+file: /ol-ocw-studio-app/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/0107bb7cd1e29bafb334f3769db77d8c_MIT11_124F11_Jigsaw.pdf
 file_size: 182658
 file_type: application/pdf
 learning_resource_types: []

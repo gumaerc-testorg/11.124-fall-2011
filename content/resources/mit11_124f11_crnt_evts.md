@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about tinkering toward Utopia presentation
   and current events.
-file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/b1429d4a42bc6d47dbd563d91168fa88_MIT11_124F11_Crnt_evts.pdf
+file: /ol-ocw-studio-app/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/b1429d4a42bc6d47dbd563d91168fa88_MIT11_124F11_Crnt_evts.pdf
 file_size: 124142
 file_type: application/pdf
 learning_resource_types: []
