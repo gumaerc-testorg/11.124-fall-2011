@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to math games.
-file: /ol-ocw-studio-app/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/6b811cf55c46bcb6138e150ccad5377c_MIT11_124F11_mthgme_agn.pdf
+file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/6b811cf55c46bcb6138e150ccad5377c_MIT11_124F11_mthgme_agn.pdf
 file_size: 199958
 file_type: application/pdf
 learning_resource_types: []

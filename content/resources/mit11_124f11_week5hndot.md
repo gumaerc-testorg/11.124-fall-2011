@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to theory and practice: teaching
   and learning in mathematics.'
-file: /ol-ocw-studio-app/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/c172cd7567ef3ba7b69b348dd11fd7c5_MIT11_124F11_week5hndot.pdf
+file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/c172cd7567ef3ba7b69b348dd11fd7c5_MIT11_124F11_week5hndot.pdf
 file_size: 136692
 file_type: application/pdf
 learning_resource_types: []

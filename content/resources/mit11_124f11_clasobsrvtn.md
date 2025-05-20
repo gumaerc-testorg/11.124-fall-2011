@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to classroom observations.
-file: /ol-ocw-studio-app/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/afd602efb2811f884d7ac5e486021193_MIT11_124F11_clasobsrvtn.pdf
+file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/afd602efb2811f884d7ac5e486021193_MIT11_124F11_clasobsrvtn.pdf
 file_size: 62254
 file_type: application/pdf
 learning_resource_types:

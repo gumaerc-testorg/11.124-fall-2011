@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/9406256985f0a5fbfb4d6c4d0f1d4c84_big-picture.jpg
+file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/9406256985f0a5fbfb4d6c4d0f1d4c84_big-picture.jpg
 file_size: 37368
 file_type: image/jpeg
 image_metadata:
