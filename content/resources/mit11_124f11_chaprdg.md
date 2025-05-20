@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to chapter readings.
-file: /ol-ocw-studio-app/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/1a1d94adc888cdd4c19c07d897e2e45c_MIT11_124F11_chaprdg.pdf
+file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/1a1d94adc888cdd4c19c07d897e2e45c_MIT11_124F11_chaprdg.pdf
 file_size: 91505
 file_type: application/pdf
 learning_resource_types:

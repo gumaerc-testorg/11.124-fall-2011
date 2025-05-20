@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/5fe674a24dd270e5dccaa4677c561472_MIT11_124F11_Constructivist.srt
+file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/5fe674a24dd270e5dccaa4677c561472_MIT11_124F11_Constructivist.srt
 file_size: 6204
 file_type: application/x-subrip
 learning_resource_types: []

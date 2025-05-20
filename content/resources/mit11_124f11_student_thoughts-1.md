@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/a1415184c8375029817acc57dfc96a85_MIT11_124F11_Student_Thoughts.vtt
+file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/a1415184c8375029817acc57dfc96a85_MIT11_124F11_Student_Thoughts.vtt
 file_size: 1489
 file_type: application/x-subrip
 learning_resource_types: []
