@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to reading guidelines for
   math education games.
-file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/4ce41579d6084335ac718445b3814b6f_MIT11_124F11_rdgguide_mth.pdf
+file: /ol-ocw-studio-app/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/4ce41579d6084335ac718445b3814b6f_MIT11_124F11_rdgguide_mth.pdf
 file_size: 109029
 file_type: application/pdf
 learning_resource_types: []
