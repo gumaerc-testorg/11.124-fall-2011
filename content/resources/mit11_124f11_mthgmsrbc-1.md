@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to math games rubric.
-file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/52884a23915ba99b5211bf25a5aa5d11_MIT11_124F11_MthGmsRbc.pdf
+file: /ol-ocw-studio-app/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/52884a23915ba99b5211bf25a5aa5d11_MIT11_124F11_MthGmsRbc.pdf
 file_size: 105356
 file_type: application/pdf
 learning_resource_types: []
