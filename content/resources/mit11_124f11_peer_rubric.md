@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to peer rubric for math games.
-file: /courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/c3b510eece029d7e3bd8d87271a19ab0_MIT11_124F11_Peer_rubric.pdf
+file: /ol-ocw-studio-app/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/c3b510eece029d7e3bd8d87271a19ab0_MIT11_124F11_Peer_rubric.pdf
 file_size: 60736
 file_type: application/pdf
 learning_resource_types: []
