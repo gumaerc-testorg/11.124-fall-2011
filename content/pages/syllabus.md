@@ -22,7 +22,7 @@ There are no prerequisites for this course.
 The MIT/Wellesley Scheller Teacher Education Program
 ----------------------------------------------------
 
-The [MIT/Wellesley Scheller Teacher Education Program](https://education.mit.edu/teacher-licensure/) (STEP) prepares MIT and Wellesley College students to become teachers who are:
+The {{% resource_link "70c6c3aa-dce9-413a-bd02-c58e207d348e" "MIT/Wellesley Scheller Teacher Education Program" %}} (STEP) prepares MIT and Wellesley College students to become teachers who are:
 
 *   Competent to teach in their field and not afraid to challenge established norms
 *   Able to bridge the boundaries among disciplines
@@ -31,11 +31,11 @@ The [MIT/Wellesley Scheller Teacher Education Program](https://education.mit.edu
 Course Texts
 ------------
 
-\[Learn\] = Committee on Developments in the Science of Learning. [_How People Learn: Brain, Mind, Experience, and School: Expanded Edition_](http://books.nap.edu/catalog.php?record_id=9853). The National Academies Press, 2000. ISBN: 9780309070362.
+\[Learn\] = Committee on Developments in the Science of Learning. {{% resource_link "ef778a3f-bc1e-450c-bcee-bfe3ffd8c29e" "_How People Learn: Brain, Mind, Experience, and School: Expanded Edition_" %}}. The National Academies Press, 2000. ISBN: 9780309070362.
 
-\[Schooling\] = Graham, Patricia Albjerg. _Schooling America: How the Public Schools Meet the Nation's Changing Needs_. Oxford University Press, 2005. ISBN: 9780195315844. \[Preview with [Google Books](http://books.google.com/books?id=nqOBNEs2K7gC&pg=PAfrontcover#v=onepage)\]
+\[Schooling\] = Graham, Patricia Albjerg. _Schooling America: How the Public Schools Meet the Nation's Changing Needs_. Oxford University Press, 2005. ISBN: 9780195315844. \[Preview with {{% resource_link "87d0fe91-a1c6-4c53-9dbf-018ee5ee3516" "Google Books" %}}\]
 
-\[Tinkering\] = Tyack, David, and Larry Cuban. _Tinkering Toward Utopia: A Century of Public School Reform_. Harvard University Press, 1997. ISBN: 9780674892835. \[Preview with [Google Books](http://books.google.co.in/books?id=WCQ8TVEP8H8C&pg=PAfrontcover#v=onepage)\]
+\[Tinkering\] = Tyack, David, and Larry Cuban. _Tinkering Toward Utopia: A Century of Public School Reform_. Harvard University Press, 1997. ISBN: 9780674892835. \[Preview with {{% resource_link "6f8a1ce2-0104-44e3-91f5-29f308c00bb8" "Google Books" %}}\]
 
 Course Rationale and Overview
 -----------------------------
