@@ -21,7 +21,7 @@ Topics
 Readings
 --------
 
-*   \[Learn\] = {{% resource_link "05b43d2f-97a8-43dc-9471-969555df0c87" "Chapter 2: How Experts Differ from Novices" %}}.
+*   \[Learn\] = [Chapter 2: How Experts Differ from Novices](http://www.nap.edu/openbook.php?record_id=9853&page=31).
 *   \[Schooling\] = Chapter 2.
 
 Assignments
