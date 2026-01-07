@@ -19,10 +19,10 @@ uid: ccea0fc0-7b5c-742f-031d-67dca9c56d57
 ## Activities
 
 - Video views of schools and classrooms
-    - {{% resource_link "db392103-d72f-4269-b29c-865e3b11e186" "*Chalk*" %}}
-    - {{% resource_link "53937ee1-5f19-42c3-93a1-cac916ec777d" "*Waiting for Superman*" %}}
+    - [*Chalk*](http://www.imdb.com/title/tt0758738/)
+    - [*Waiting for Superman*](https://www.imdb.com/title/tt1566648/)
 - Initial discussion of student portfolios and weblogs
-    - See "{{% resource_link "aafb6e50-6ef0-489c-bee6-dc901bf55a93" "Education Web Logs" %}}" on *Tech & Learning*
+    - See "[Education Web Logs](https://www.techlearning.com/news/education-web-logs)" on *Tech & Learning*
 
 ## Assignments
 
@@ -34,5 +34,5 @@ uid: ccea0fc0-7b5c-742f-031d-67dca9c56d57
 
 ## Readings
 
-- \[Learn\] = {{% resource_link "a9908111-b3f9-4173-8007-b1838831c6f0" "Chapter 1: Learning: From Speculation to Science" %}}.
+- \[Learn\] = [Chapter 1: Learning: From Speculation to Science](http://www.nap.edu/openbook.php?record_id=9853&page=3).
 - Dalton, Mary M. *The Hollywood Curriculum*. Peter Lang Publishing, 2007. ISBN: 9780820468211.
